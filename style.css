@@ -1,0 +1,16 @@
+body {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    background-color: #d0f5f7;
+}
+
+ .imt {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    width: 30%;
+    border: 1px solid white;
+    padding: 10px;
+    color: rgb(117, 0, 0);
+ }
